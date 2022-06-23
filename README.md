@@ -12,11 +12,11 @@ Challenge suggested by the DevQuest Course. Proposal by professors Roberto Dias 
 
  ### Huddle landing page Desktop
 
- [<img src="/src/images/huddle.gif">](https://www.frontendmentor.io/home)
+ [<img src="/src/images/huddle.gif">](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
  ### Huddle landing page mobile
 
- [<img src="/src/images/huddle-moble.gif" alt="huddle">](https://www.frontendmentor.io/home)
+ [<img src="/src/images/huddle-moble.gif" alt="huddle">](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
 ### Developed With
 
