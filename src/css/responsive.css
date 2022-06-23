@@ -1,6 +1,6 @@
 @media (max-width: 425px) {
     body {
-      background-image: url("/images/bg-mobile.svg");
+      background-image: url("../images/bg-mobile.svg");
       margin: 1.8rem;
     }
   
@@ -22,7 +22,7 @@
       font-size: 1.5rem;
     }
   
-    .container .main .btn-register {
+    .container .main button {
       display: inline-block;
       text-align: center;
       margin: 1rem;
