@@ -1,14 +1,14 @@
-# Challenge DevQuest - Frontend Mentor - Huddle landing page 
+# Challenge DevQuest - Frontend Mentor - Huddle landing page  🚀
 
-## The Challenge 🚀
+## The Challenge 🔥
 
 Challenge suggested by the DevQuest Course. Proposal by professors Roberto Dias and Ricardo Dias [(double dev)](https://www.instagram.com/devemdobro/) professors of the DevQuest course. goal create Huddle landing page.
 
-## Project Huddle landing page Desktop
+## Project Huddle landing page Desktop 📁
 
  [<img src="/src/design/desktop-design.jpg" alt="huddle">](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
- ## Challenge Solution
+ ## Challenge Solution 💥
 
  ### Huddle landing page Desktop
 
@@ -18,7 +18,7 @@ Challenge suggested by the DevQuest Course. Proposal by professors Roberto Dias 
 
  [<img src="/src/images/huddle-moble.gif" alt="huddle">](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
-### Developed With
+### 📌 Developed With
 
 ````
 - semantic html
@@ -28,19 +28,19 @@ Challenge suggested by the DevQuest Course. Proposal by professors Roberto Dias 
 - font-awesome
 ````
 
-### Technologies Used
+### 📌 Technologies Used
 
 ````
 - HTML5
 - CSS3
 ````
 
- ### Difficulties
+ ###  🎯 Difficulties
  ````
  The biggest difficulties were adjusting the page size, centering the elements in the divs, defining the spacing between the elements inside the container according to the page, adjusting the background and the images.
 
  ````
- ### Apprenticeship
+ ### :bookmark: Apprenticeship
  ````
 I learned the importance of analyzing the project before starting to develop it, positioning it with the flex box, defining the page size, always using the image at 100%, always defining the Viewport, stylizing the borders, respecting always the ripple effect.
  ````
