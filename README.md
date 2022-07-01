@@ -4,7 +4,7 @@
 
 Challenge suggested by the DevQuest Course. Proposal by professors Roberto Dias and Ricardo Dias [(double dev)](https://www.instagram.com/devemdobro/) professors of the DevQuest course. goal create Huddle landing page.
 
-## Project Huddle landing page Desktop 📁
+## Project Huddle landing page Desktop 
 
  [<img src="/src/design/desktop-design.jpg" alt="huddle">](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
@@ -40,7 +40,7 @@ Challenge suggested by the DevQuest Course. Proposal by professors Roberto Dias 
  The biggest difficulties were adjusting the page size, centering the elements in the divs, defining the spacing between the elements inside the container according to the page, adjusting the background and the images.
 
  ````
- ### :bookmark: Apprenticeship
+ ### :bookmark_tabs: Apprenticeship
  ````
 I learned the importance of analyzing the project before starting to develop it, positioning it with the flex box, defining the page size, always using the image at 100%, always defining the Viewport, stylizing the borders, respecting always the ripple effect.
  ````
